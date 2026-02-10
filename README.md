@@ -61,11 +61,13 @@ Learned:
 ## Screenshots
 
 ### TrendyEra
-![Main Page](mainpage.png)
+![Main Page](trendy1.png)
 
-![Entertainment News](entertainmentNews.png)
+![Interior](trendy2.png)
 
-![Sports News](sportsNews.png)
+![Collection](trendy4.png)
 
-![Technology News](technologyNews.png)
+![Women Collection](trendy5.png)
+
+![Contact](trendy8.png)
    
